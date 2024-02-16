@@ -40,7 +40,7 @@ function draw() {
   {
     filter('gray')
     cursor(ARROW)
-    fill(' orangered');rect(50,290,300,100,15)
+    fill('orange');rect(50,290,300,100,15)
     fill(0);textSize(30);text("Başlamak İçin Tıkla",width/2,height/2)
   }
 }
